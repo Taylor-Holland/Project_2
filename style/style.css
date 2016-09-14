@@ -1,0 +1,21 @@
+<style>
+h1 {font-family: Impact;}
+h2 {font-family: Impact;}
+body {font-family: Arial;
+  font-size: 20px;}
+
+  p {font-family: helvetica;
+  color: black;}
+    p.different{
+      font-family: helvetica;
+      font-size: 15px;
+      color: black;
+    }
+      .button {
+        background-color: white;
+        height: 25px;
+        width: 400px;
+      }
+  img {height: 300px;
+      width:400px;}
+</style>
